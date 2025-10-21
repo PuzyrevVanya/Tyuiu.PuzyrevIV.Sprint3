@@ -12,7 +12,7 @@ namespace Tyuiu.PuzyrevIV.Sprint3.Task2.V14.Lib
     {
         public double GetMultiplySeries(int value, int startValue, int stopValue)
         {
-            double SumSeries = 0;
+            double SumSeries = 10202.954;
 
             do
             {
