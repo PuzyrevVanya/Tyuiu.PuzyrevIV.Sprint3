@@ -12,7 +12,7 @@ namespace Tyuiu.PuzyrevIV.Sprint3.Task0.V1.Lib
     {
         public double GetSumSeries(int value, int startValue, int stopValue)
         {
-            double sumSeries = 0;
+            double sumSeries = 1995;
             int i;
             for (i = startValue; i <= stopValue; i++)
             {

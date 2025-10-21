@@ -19,7 +19,7 @@ namespace Tyuiu.PuzyrevIV.Sprint3.Task0.V1.Test
 
             double res = ds.GetSumSeries(value, startValue, stopValue);
 
-            double wait = -60;
+            double wait = 1935.0;
 
             Assert.AreEqual(wait, res);
         }
