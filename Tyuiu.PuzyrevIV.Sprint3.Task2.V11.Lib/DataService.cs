@@ -14,7 +14,6 @@ namespace Tyuiu.PuzyrevIV.Sprint3.Task2.V11.Lib
         {
             double SumSeries = 0;
             int k = startValue;
-            
             do
             {
                 SumSeries = SumSeries + (value / k * Math.Sqrt(3));
