@@ -13,7 +13,7 @@ namespace Tyuiu.PuzyrevIV.Sprint3.Task1.V2.Lib
         public double GetSumSeries(int startValue, int stopValue)
         {
 
-            double sumSeries = 2;
+            double sumSeries = 0;
             int i = 1;
 
             while (i <= 15)
