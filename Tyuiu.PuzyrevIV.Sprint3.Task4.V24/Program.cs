@@ -27,8 +27,8 @@ namespace Tyuiu.PuzyrevIV.Sprint3.Task4.V24
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
-            int startValue = 5;
-            int stopValue = -5;
+            int startValue = -5;
+            int stopValue = 5;
             
             Console.WriteLine("Старт шага = " + startValue);
             Console.WriteLine("Конец шага = " + stopValue);

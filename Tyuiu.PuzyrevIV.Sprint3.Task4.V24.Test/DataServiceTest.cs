@@ -13,8 +13,8 @@ namespace Tyuiu.PuzyrevIV.Sprint3.Task4.V24.Test
         {
             DataService ds = new DataService();
 
-            int startValue = 5;
-            int stopValue = -5;
+            int startValue = -5;
+            int stopValue = 5;
 
             double res = ds.Calculate(startValue, stopValue);
 
