@@ -16,7 +16,7 @@ namespace Tyuiu.PuzyrevIV.Sprint3.Task5.V9
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Тема: Sprint #3. Вложенные циклы.                                       *");
-            Console.WriteLine("* Задание #3. Вариант #9.                                                 *");
+            Console.WriteLine("* Задание #5. Вариант #9.                                                 *");
             Console.WriteLine("* Выполнил: Пузырев И.В. | СМАРТБ 25 - 1                                  *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
