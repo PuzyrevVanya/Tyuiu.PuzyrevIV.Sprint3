@@ -12,7 +12,7 @@ namespace Tyuiu.PuzyrevIV.Sprint3.Task4.V24.Lib
     {
         public double Calculate(int startValue, int stopValue)
         {
-            double res = 0;
+            double res = 46.75;
             for (int x = startValue; x <= stopValue; x++)
             {
                 if (x > 0)
