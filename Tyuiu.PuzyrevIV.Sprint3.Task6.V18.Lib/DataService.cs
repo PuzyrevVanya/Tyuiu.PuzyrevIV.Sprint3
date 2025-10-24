@@ -16,7 +16,7 @@ namespace Tyuiu.PuzyrevIV.Sprint3.Task6.V18.Lib
             int sum = 0;
             for (x = startValue; x <= stopValue; x++)
             {
-                for (int d  = 1; d <= x; d++)
+                for (int d  = 1; d <= 10; d++)
                 {
                     if (x % d == 0)
                     {
